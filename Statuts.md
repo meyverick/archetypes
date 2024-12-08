@@ -51,7 +51,7 @@ Les présents statuts ont pour objet de définir les règles de fonctionnement d
 
 - 6.1. Le butin obtenu sera soumis à un tirage au sort.
 - 6.2. Le nombre de bénéficiaires sera déterminé en fonction du montant total du butin obtenu, selon la formule suivante: `FLOOR(valeur du butin / 1000)` pour les Lucents et `FLOOR(valeur du butin / 1000000)` pour les Sollants.
-- 6.3. En cas de butin combinant Lucents et Sollants, le nombre total de bénéficiaires est déterminé en additionnant le nombre de bénéficiaires calculé pour chaque monnaie selon les formules décrites à l'article 7.2. Lors du tirage au sort, les Lucents seront distribués en premier aux bénéficiaires désignés pour cette monnaie, suivis de la distribution des Sollants aux bénéficiaires restants.
+- 6.3. Lorsque le butin comprend à la fois des Lucents et des Sollants, le nombre total de bénéficiaires est calculé en deux étapes. Premièrement, on détermine le nombre de bénéficiaires pour chaque monnaie en appliquant les formules de l'article 6.2. Ensuite, on additionne ces deux nombres pour obtenir le nombre total de bénéficiaires. Le tirage au sort désigne alors les gagnants. Les premiers bénéficiaires tirés au sort reçoivent des Lucents. Puis, les bénéficiaires suivants reçoivent des Sollants.
 
 ## Article 7: Obtention de jetons
 
