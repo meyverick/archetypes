@@ -61,7 +61,7 @@ Les présents statuts ont pour objet de définir les règles de fonctionnement d
 
 - 7.1. Lorsqu'un tirage au sort est effectué pour un objet ou une somme d'argent obtenus lors d'une activité de guilde, chaque membre ayant participé à l'activité, mais n'ayant pas remporté le tirage, recevra un 1 jeton.
 - 7.2. Aucun jeton ne sera distribué si le tirage au sort n'aboutit à aucun gagnant.
-- 7.3. Les jetons obtenus peuvent être utilisés pour participer aux tirages au sort, comme indiqué à l'article 6.3.
+- 7.3. Les jetons obtenus peuvent être utilisés pour participer aux tirages au sort, comme indiqué à l'article 5 et 6.
 
 ## Article 8: Amélioration du serveur Discord
 
