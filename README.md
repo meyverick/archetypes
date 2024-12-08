@@ -1,0 +1,1 @@
+This project is protected by the [Berne Convention](https://www.wipo.int/treaties/en/ip/berne/summary_berne.html) and released under the [ISC License](https://opensource.org/license/isc-license-txt) licence. Copyright protection lasts for the life of the author, [Discord @Meyverick](https://discord.com/users/374168762426982401), plus an additional 70 years.
