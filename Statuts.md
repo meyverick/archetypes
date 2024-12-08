@@ -46,12 +46,16 @@ Les présents statuts ont pour objet de définir les règles de fonctionnement d
   - 10 jetons pour les objets très rares, généralement obtenus sur les archboss.
 - 5.5. Dans les cas non prévus par l'article 5.4, le prix d'entrée en jetons sera déterminé par un vote du leader et des conseillers de la guilde.
 - 5.6. En cas d'objet non attribué par le tirage au sort, celui-ci sera vendu et les bénéfices seront reversés aux membres ayant participé à l'activité ayant permis l'obtention de l'objet.
+- 5.7. Les membres n'ayant pas été tirés au sort lors de la distribution de l'objet seront remboursés de leur jeton d'entrée.
 
 ## Article 6: Distribution des Lucents et des Sollants
 
 - 6.1. Le butin obtenu sera soumis à un tirage au sort.
 - 6.2. Le nombre de bénéficiaires sera déterminé en fonction du montant total du butin obtenu, selon la formule suivante: `FLOOR(valeur du butin / 1000)` pour les Lucents et `FLOOR(valeur du butin / 1000000)` pour les Sollants.
 - 6.3. Lorsque le butin comprend à la fois des Lucents et des Sollants, le nombre total de bénéficiaires est calculé en deux étapes. Premièrement, on détermine le nombre de bénéficiaires pour chaque monnaie en appliquant les formules de l'article 6.2. Ensuite, on additionne ces deux nombres pour obtenir le nombre total de bénéficiaires. Le tirage au sort désigne alors les gagnants. Les premiers bénéficiaires tirés au sort reçoivent des Lucents. Puis, les bénéficiaires suivants reçoivent des Sollants.
+- 6.4. La participation au tirage au sort est soumise à un prix d'entrée fixe de 1 jeton par membre.
+- 6.5. Aucun jeton ne sera offert à l'issue du tirage au sort.
+- 6.6. Les membres n'ayant pas été tirés au sort lors de la distribution des Lucents et des Sollants seront remboursés de leur jeton d'entrée.
 
 ## Article 7: Obtention de jetons
 
