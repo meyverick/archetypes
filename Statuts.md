@@ -81,11 +81,11 @@ Nous vous souhaitons la bienvenue au sein de "Archétypes" et espérons que vous
 
 ## Devenez un Archétype: Ce que la guilde offre
 
-* **Forge de liens indéfectibles:** Au sein des Archétypes, la camaraderie est le socle de notre force. Rires et respect mutuel résonnent dans chaque recoin de notre communauté, offrant un refuge où chaque héros trouve sa place.
-* **Épopées légendaires:** Ensemble, nous sillonnerons les terres inexplorées de Throne and Liberty, bravant les donjons les plus obscurs et révélant les secrets les mieux gardés. Chaque Archétype contribuera à graver notre nom dans l'histoire.
+* **Forge de liens indéfectibles:** La camaraderie est le socle de notre force. Rires et respect mutuel résonnent dans chaque recoin de notre communauté, offrant un refuge où chacun trouve sa place.
+* **Épopées légendaires:** Ensemble, nous sillonnerons les terres inexplorées de Throne and Liberty, bravant les donjons les plus obscurs et révélant les secrets les mieux gardés. Nos exploits s'inscriront à jamais dans l'histoire.
 * **Liberté et équilibre:** La vie est une aventure aux multiples facettes. Nous comprenons que chaque guerrier a ses propres combats à mener. Trouvez l'harmonie entre vos obligations et votre passion pour Throne and Liberty, sans pression ni contrainte.
-* **Le Nexus des Archétypes:** Notre Discord est le creuset où se forgent les stratégies, où les discussions animées s'entremêlent aux rires partagés. C'est là que les liens se tissent et que les Archétypes se révèlent.
-* **Justice et transparence:** Chaque décision, chaque partage de butin, chaque événement est orchestré avec soin et équité, car chaque Archétype est précieux et mérite le respect.
-* **Aini, le Guide des Archétypes:** Ce serviteur Discord, conçu pour notre guilde, veille à la juste répartition des trésors et orchestre des événements palpitants. Avec Aini, votre aventure sera sereine et passionnante.
+* **Le Nexus:** Notre Discord est le creuset où se forgent les stratégies, où les discussions animées s'entremêlent aux rires partagés. C'est là que les liens se tissent et que les amitiés se forgent.
+* **Justice et transparence:** Chaque décision, chaque partage de butin, chaque événement est orchestré avec soin et équité, car chaque membre est précieux et mérite le respect.
+* **Aini, le Guide :** Ce serviteur Discord, conçu pour notre guilde, veille à la juste répartition des trésors et orchestre des événements palpitants. Avec Aini, votre aventure sera sereine et passionnante.
 
 Prêt à devenir un Archétype et forger votre légende? [Cliquez ici, l'aventure commence maintenant!](https://docs.google.com/forms/d/e/1FAIpQLSdWLjavYvI79lxPbT5vnr-RBCI0G7ylQRt0hEow0-sD0BERAg/viewform?usp=sf_link)
